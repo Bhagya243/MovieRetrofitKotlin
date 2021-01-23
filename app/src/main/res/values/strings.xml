@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieRetrofitKotlin</string>
+    <string name="api_key">d87c2032db1fd9d46270619f69cbd7e8</string>
+</resources>
